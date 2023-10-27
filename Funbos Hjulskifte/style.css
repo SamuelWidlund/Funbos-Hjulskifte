@@ -4,5 +4,6 @@
 }
 
 body{
-    background-color: lightblue!important;
-}
+    background: linear-gradient(132deg, lightBlue, darkBlue, Blue);
+    background-size: 400% 400%;
+    animation: Gradient 15s ease infinite;}
