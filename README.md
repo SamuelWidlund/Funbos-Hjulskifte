@@ -1,2 +1,2 @@
-# Funbos-Hjulskifte
+# funboshjulskifte
 Hjulskifte i Funbo
